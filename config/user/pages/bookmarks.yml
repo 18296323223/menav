@@ -1,0 +1,286 @@
+# 自动生成的书签配置文件
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+template: bookmarks
+categories:
+  - name: 根目录书签
+    icon: fas fa-star
+    path:
+      - 根目录书签
+    sites:
+      - name: AI工具库 | AIGCMAX
+        url: https://aigcmax.com/
+        icon: fas fa-link
+        description: ''
+      - name: GitHub：让我们从这里开始构建 ·GitHub上
+        url: https://github.com/
+        icon: fab fa-github
+        description: ''
+      - name: 模特 - 拥抱脸
+        url: https://huggingface.co/models?p=1&sort=trending
+        icon: fas fa-link
+        description: ''
+      - name: MiniMax-国内AI语音克隆
+        url: https://www.minimaxi.com/
+        icon: fas fa-link
+        description: ''
+      - name: ElevenLabs-国外语音克隆
+        url: https://elevenlabscn.com/
+        icon: fas fa-link
+        description: ''
+      - name: Suno-国内AI音乐生成器
+        url: https://ai.suno.cn/home/#/
+        icon: fas fa-link
+        description: ''
+      - name: Stable Audio - 国外AI音乐生成器
+        url: https://stableaudio.com/generate
+        icon: fas fa-link
+        description: ''
+      - name: Udio-国外AI音乐生成器
+        url: https://www.udio.com/create
+        icon: fas fa-link
+        description: ''
+      - name: 菜鸟图库-免费设计素材下载
+        url: https://www.sucai999.com/
+        icon: fas fa-link
+        description: ''
+  - name: 包装设计
+    icon: fas fa-folder
+    path:
+      - 包装设计
+    sites:
+      - name: Packaging Of The World – Creative Package Design Archive and Gallery
+        url: https://packagingoftheworld.com/
+        icon: fas fa-link
+        description: ''
+  - name: AI短剧制作
+    icon: fas fa-folder
+    path:
+      - AI短剧制作
+    sites:
+      - name: Neowow - 无限画布
+        url: https://neowow.cn/neo-tv
+        icon: fas fa-link
+        description: ''
+      - name: LibTV - 无限画布
+        url: https://www.liblib.tv/?sourceId=005603&planid={planid}&groupid={groupid}&keywordid={keywordid}&creativeid={creativeid}
+        icon: fas fa-link
+        description: ''
+      - name: 即梦AI - 一站式AI创作平台
+        url: https://jimeng.jianying.com/ai-tool/generate?type=image
+        icon: fas fa-link
+        description: ''
+      - name: 可灵 AI - 新一代 AI 创意生产力平台
+        url: https://klingai.kuaishou.com/
+        icon: fas fa-link
+        description: ''
+      - name: Lovart | 国外画布
+        url: https://www.lovart.ai/canvas?projectId=8952175b91a74e04accab26dd38e3920
+        icon: fas fa-link
+        description: ''
+      - name: Lynkvis AI
+        url: https://linktelai.com/#/login?inviteCode=K5AF6VYA
+        icon: fas fa-link
+        description: ''
+      - name: Higgsfield AI — AI-native creative suite
+        url: https://higgsfield.ai/
+        icon: fas fa-link
+        description: ''
+      - name: ComfyUI Workflows - Developer Community
+        url: https://openart.ai/workflows/home
+        icon: fas fa-link
+        description: ''
+      - name: Shotlab-新片场旗下 AI创作平台｜AI 图片生成 AI 视频生成
+        url: https://aigc.xinpianchang.com/
+        icon: fas fa-link
+        description: ''
+      - name: MetaChat - Your ultimate one-stop AIGC platform
+        url: https://www.metachat.work/#/chat/1772786938706
+        icon: fas fa-link
+        description: ''
+      - name: Seko - World Class AI Video Generation Platform
+        url: https://seko.sensetime.com/explore?utm_source=bing&utm_content=Seko&utm_term=Seko_AI&msclkid=be5783caa3b416c41ad5e9865b37738b
+        icon: fas fa-link
+        description: ''
+      - name: Civitai Models | Discover Free Stable Diffusion Models
+        url: https://civitai.com/models?tag=buildings
+        icon: fas fa-link
+        description: ''
+      - name: ComfyUI Workflows - 在线编辑运行工作流，速度快，不报错
+        url: https://www.runninghub.cn/workflows
+        icon: fas fa-link
+        description: ''
+  - name: 机场
+    icon: fas fa-folder
+    path:
+      - 机场
+    sites:
+      - name: 2026高速稳定机场推荐【节点推荐与严测】 - 最稳定的机场推荐，突破防火墙，保护网络隐私
+        url: https://flyvpn88.top/
+        icon: fas fa-link
+        description: ''
+      - name: 用户核心数据面板 — Nyacloud
+        url: https://panel.xn--9kqw7o.com/user
+        icon: fas fa-link
+        description: ''
+      - name: 机场1
+        url: https://mitce.net/pages/2025-acts.php
+        icon: fas fa-link
+        description: ''
+      - name: 机场2
+        url: https://panel.xn--9kqw7o.com/
+        icon: fas fa-link
+        description: ''
+      - name: 仪表盘 | 大航海
+        url: https://d-h-h.de/#/dashboard
+        icon: fas fa-link
+        description: ''
+      - name: Nice Cloud
+        url: https://nicecloud.me/#/dashboard
+        icon: fas fa-link
+        description: ''
+      - name: 全球原生家宽IP源头供应
+        url: https://www.9981proxy.com/
+        icon: fas fa-link
+        description: ''
+      - name: IP检测 - 检测您的IP质量
+        url: https://www.ipjiance.com/
+        icon: fas fa-link
+        description: ''
+  - name: 设计
+    icon: fas fa-folder
+    path:
+      - 设计
+    sites:
+      - name: 站酷ZCOOL - 设计师们都在站酷
+        url: https://www.zcool.com.cn/
+        icon: fas fa-link
+        description: ''
+      - name: 谷德设计网 - gooood
+        url: https://www.gooood.cn/
+        icon: fas fa-link
+        description: ''
+      - name: 印际 - 立足于中国的国际生活美学媒体
+        url: https://www.yinjispace.com/
+        icon: fas fa-link
+        description: ''
+      - name: 安邸AD家居生活网-创意家居,时尚生活|时尚家居生活杂志《安邸AD》官方网站
+        url: https://www.adstyle.com.cn/
+        icon: fas fa-link
+        description: ''
+      - name: 序赞网 - 全球优秀室内与建筑设计师项目智能聚合平台
+        url: https://www.vsszan.com/
+        icon: fas fa-link
+        description: ''
+      - name: 【方案文本】方案文本下载-建e网
+        url: https://ppt.justeasy.cn/
+        icon: fas fa-link
+        description: ''
+      - name: '国外-Yellowtrace: Interior Design | Architecture | Art | Products | People'
+        url: https://www.yellowtrace.com.au/
+        icon: fas fa-link
+        description: ''
+      - name: 国外-Leibal — 极简设计出版物
+        url: https://leibal.com/
+        icon: fas fa-link
+        description: ''
+      - name: 国外-Dezeen | architecture and design magazine
+        url: https://www.dezeen.com/
+        icon: fas fa-link
+        description: ''
+      - name: 国外-ArchDaily | Broadcasting Architecture Worldwide
+        url: https://www.archdaily.com/
+        icon: fas fa-link
+        description: ''
+      - name: Pinterest
+        url: https://www.pinterest.com/
+        icon: fab fa-pinterest
+        description: ''
+  - name: 剪辑工具
+    icon: fas fa-folder
+    path:
+      - 剪辑工具
+    sites:
+      - name: Tembrica — 在线工具：音频、视频、游戏等
+        url: https://tembrica.com/en
+        icon: fas fa-link
+        description: ''
+  - name: AI聊天工具
+    icon: fas fa-folder
+    path:
+      - AI聊天工具
+    sites:
+      - name: Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造
+        url: https://www.kimi.com/
+        icon: fas fa-link
+        description: ''
+      - name: 豆包 - 字节跳动旗下 AI 智能助手
+        url: https://www.doubao.com/chat/?channel=AIHub
+        icon: fas fa-link
+        description: ''
+      - name: DeepSeek - 探索未至之境
+        url: https://chat.deepseek.com/
+        icon: fas fa-link
+        description: ''
+      - name: 谷歌Gemini
+        url: https://gemini.google.com/app
+        icon: fab fa-google
+        description: ''
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-link
+        description: ''
+  - name: 国外网站
+    icon: fas fa-folder
+    path:
+      - 国外网站
+    sites:
+      - name: (1) YouTube
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: ''
+      - name: 短信激活 | 使用虚拟号码在线接收短信
+        url: https://5sim.net/zh
+        icon: fas fa-link
+        description: ''
+      - name: Agent Skills 市场 | Codex 与 Claude 相关技能 | SkillsMP --- Agent Skills 市场 | Codex & Claude Skills | SkillsMP
+        url: https://skillsmp.com/zh
+        icon: fas fa-link
+        description: ''
+  - name: 邮箱
+    icon: fas fa-folder
+    path:
+      - 邮箱
+    sites:
+      - name: Outlook
+        url: https://outlook.live.com/mail/
+        icon: fas fa-link
+        description: ''
+      - name: Gmail
+        url: https://mail.google.com/mail/u/0/#inbox
+        icon: fab fa-google
+        description: ''
+      - name: QQ邮箱
+        url: https://wx.mail.qq.com/home/index?sid=zTxSRIw-dVQu-zRpAEAxUgAA#/list/1
+        icon: fas fa-link
+        description: ''
+      - name: 163网易邮箱
+        url: https://hw.mail.163.com/js6/main.jsp?sid=QLrFaDfoevlbPYnOLWacOSiXtsdBWHdg&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
+        icon: fas fa-link
+        description: ''
+      - name: Proton Mail
+        url: https://mail.proton.me/u/1/inbox#category=primary
+        icon: fas fa-link
+        description: ''
+  - name: 视频下载工具
+    icon: fas fa-folder
+    path:
+      - 视频下载工具
+    sites:
+      - name: Vdown - 去水印下载视频
+        url: https://xiazaishipin.com/
+        icon: fas fa-link
+        description: ''
